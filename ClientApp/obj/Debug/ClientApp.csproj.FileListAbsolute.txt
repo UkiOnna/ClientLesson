@@ -1,0 +1,5 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
